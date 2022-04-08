@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esrakoc1
 - 👀 I’m interested in technology, software, artificial intelligence, robotic, computers, and more...
-- 🌱 I’m currently learning the C language.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the C, C#, HTML, CSS, JavaScript.
+- 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me eocesra@gmail.com
 
 <!---
