@@ -1,7 +1,8 @@
+# Welcome!
+
 - 👋 Hi, I’m @esrakocx
-- 👀 I’m interested in technology, software, artificial intelligence, robotics, computer science, and more...
+- 👀 I’m interested in Data Science...
 - 🌱 I’m currently learning the C, C#, Python.
-- 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me eocesra@gmail.com
 
 <!---
