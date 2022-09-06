@@ -1,4 +1,4 @@
-# _Welcome!_
+# _Just do it! 🦾_
 
 - 👋 Hi, I’m @esrakocx
 - 👀 I’m interested in Data Science...
