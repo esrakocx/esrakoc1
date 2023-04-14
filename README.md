@@ -1,4 +1,4 @@
-Hello, I am Esra. I am in my sophomore year in computer engineering. 
+Hello, I am Esra.
 
 I am currently learning Java, Python, and SQL.
 I am interested in Data Science and AI.
